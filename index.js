@@ -9,4 +9,3 @@ const newHeader = document.createElement("h1");
 newHeader.id = "victory"
 newHeader.innerHTML = "Flatiron School is the champion!";
 newHeader.className = "victory";
-© 2020 GitHub, Inc.
